@@ -23,5 +23,5 @@
 * [2019.10.21 - 2019.12.01](https://blog.miaomiao123.net/plan) 
 
 ### v0.2版本-研发计划
-* [2020.01.01 - 2020.07.01](https://blog.miaomiao123.net/plan20200101-20200701)
+* [2020.01.01 - 2020.07.01](https://blog.miaomiao123.net/plan2)
 
